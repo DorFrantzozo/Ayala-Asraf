@@ -1245,7 +1245,7 @@ a:hover, a:focus {
   header.hero {
     text-align:center ;
     padding-bottom: 0;
-    background-size: 100% ;
+    background-size: cover ;
 
   }
   header.hero h1 {
@@ -1280,6 +1280,7 @@ a:hover, a:focus {
   /* ayala logo */
   .logo-img{
     background-size: 100% ;
+    margin-top: 80px;
   }
 
 
