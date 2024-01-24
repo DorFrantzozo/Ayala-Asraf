@@ -796,7 +796,20 @@ margin-left: 20px;
 
 /* end gallery*/
 
+/* ayala-levels */
 
+
+.ayala-levels{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    margin-top: 122px;
+    border: 5px solid #d3bfbf;;
+  
+
+}
 
 
 /* Case study */
@@ -1196,12 +1209,17 @@ a:hover, a:focus {
 }
 .footer-text{
   margin-bottom: 30px;
+  margin-top: 16px;
 
 }
 .footer-block{
   display: flex;
   justify-content: space-between;
 
+}
+.ayala-levels {
+  width: 100%;
+  height: 350px;
 }
 .contact{
   color: white;
